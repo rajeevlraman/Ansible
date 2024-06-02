@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajeev</h1>
-<h3 align="center">A passionate Cybersecurity enthusuast</h3>
+<h3 align="center">A passionate Cybersecurity enthusuast, interested in Network securitry and building secure networks</h3>
 
 - 🔭 I’m currently working on **Ansible Automation**
 
