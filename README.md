@@ -5,7 +5,9 @@
 - Cisco Devnet sandbox labs provide me the cisco routers where I can apply my automation and try them.
 - below are some screenshots from the setup and a basic test playbook
 
-
+    ```bash
+    sudo dnf install python3-pip
+    ```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
