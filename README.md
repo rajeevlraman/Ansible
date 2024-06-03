@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Cybersecurity enthusuast, interested in Network securitry and building secure networks</h3>
 
 - 🔭 I’m currently working on **Ansible Automation** I have installed Fedora Linuc and setup my Ansible.
-- Cisco Devnet sandbox labs provide me the cisco routers where i can apply my automation and try them.
+- Cisco Devnet sandbox labs provide me the cisco routers where I can apply my automation and try them.
+- below are some screenshots from the setup and a basic test playbook
+
 
 
 <h3 align="left">Connect with me:</h3>
