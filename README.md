@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajeev</h1>
 <h3 align="center">A passionate Cybersecurity enthusuast, interested in Network securitry and building secure networks</h3>
 
-- 🔭 I’m currently working on **Ansible Automation**
+- 🔭 I’m currently working on **Ansible Automation** I have installed Fedora Linuc and setup my Ansible.
+- Cisco Devnet sandbox labs provide me the cisco routers where i can apply my automation and try them.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
